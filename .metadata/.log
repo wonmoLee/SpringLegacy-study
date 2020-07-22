@@ -1127,3 +1127,9 @@ Java Model Exception: Java Model Status [module-info [in module-info.class [in <
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
 !SUBENTRY 1 org.eclipse.jdt.core 4 969 2020-07-23 02:21:02.873
 !MESSAGE module-info [in module-info.class [in <default> [in C:\Users\21mo\.m2\repository\org\projectlombok\lombok\1.18.10\lombok-1.18.10.jar]]] does not exist
+
+!ENTRY org.eclipse.jface.text 2 0 2020-07-23 03:30:53.805
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2020-07-23 03:30:53.814
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
