@@ -9,7 +9,6 @@ INDEX VERSION 1.130+C:\Users\21mo\Desktop\source\springlegacy\.metadata\.plugins
 3228920106.index
 2673811036.index
 898788035.index
-3062447685.index
 3143050675.index
 1088449212.index
 2487545169.index
