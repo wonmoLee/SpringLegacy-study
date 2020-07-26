@@ -2683,3 +2683,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 
 !ENTRY org.eclipse.recommenders.models.rcp 1 0 2020-07-26 19:28:55.758
 !MESSAGE org.eclipse.recommenders:index::zip:0.0.0 could not be resolved from the model repositories. Are you offline?
+
+!ENTRY org.eclipse.jface.text 2 0 2020-07-26 19:40:09.255
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2020-07-26 19:40:09.272
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
