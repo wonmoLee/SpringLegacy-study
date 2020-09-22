@@ -1,13 +1,14 @@
 applyBackground=false
-approved.defs.file.last.changed.time=1594835793000
+approved.defs.file.last.changed.time=1599254320000
 codemix.dont.show.upsell.until=1597504166237
 configurationInstallLocation=/C\:/Users/21mo/Desktop/DOC/developset/utils/sts-3.9.3.RELEASE/
 eclipse.preferences.version=1
+elearning.dont.show.until=1601206631392
 iconcolormode=primary
 iconreplacement=false
 includeThemingInOomph=false
-last.download.attempt.time=1596379038807
-lastConfiguration=1597154651299
+last.download.attempt.time=1600169831842
+lastConfiguration=1600782564337
 newinstall=false
 showWelcomeDialog=false
 workbench.theme=Dark Gray
